@@ -1,0 +1,11 @@
+Drop your dataset in this folder
+
+The final directory structure sholud look like this: 
+
+dataset
+    - class1
+    - class2
+    - class3
+     . 
+     . 
+     .
